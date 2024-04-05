@@ -31,18 +31,18 @@ h1 {
 
 p {
   font-size: .95rem;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 
 button {
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
-  color:#23424a;
-  background-color: #10C8DC;
+  color:#23424A;
+  background-color: #38CFD9;
   border-style: none;
   border-radius: 1.25rem;
-  font-weight: 900;
+  font-weight: 700;
   padding: .75rem 2.25rem;
   margin: 1.5rem 0;
 }
